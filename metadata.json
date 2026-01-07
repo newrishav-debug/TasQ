@@ -1,0 +1,5 @@
+{
+  "name": "TasQ",
+  "description": "A strategic task management application that uses the Eisenhower Matrix and Gemini AI to analyze, prioritize, and justify task urgency and importance.",
+  "requestFramePermissions": []
+}
